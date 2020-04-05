@@ -1,4 +1,4 @@
 # Calculator project with HTML, CSS and JavaScript
 
 
-![Image of calculator](https://github.com/Ninikitos/calculator/blob/master/calcImg.png)
+![](https://github.com/Ninikitos/calculator/blob/master/calcImg.png)
